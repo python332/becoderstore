@@ -1,9 +1,4 @@
-#########################
-#                       #
-#     Becoder Academy   #
-#     clothing store    #
-#                       #
-#########################
+#clotbing store becoder
 print '''
 1 >>> cheap price
 2 >>> Average price
